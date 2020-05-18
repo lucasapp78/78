@@ -1,0 +1,9 @@
+{
+    	"URL_CLIENT" : "http://santrope-download.react.group/client6.zip" ,
+    	"URL_FILES" : "http://santrope-download.react.group/upd-all.zip" ,
+    	"URL_LITE_CACHE" : "http://santrope-download.react.group/lite-cache.zip" ,
+    	"URL_FULL_CACHE" : "http://santrope-download.react.group/full_cache.zip" ,    
+	"URL_GAME_SETTINGS" : "http://santrope-download.react.group/gta_sa.set" ,
+    	"URL_UPD" : "http://145.239.133.5/upd1.json",
+	"URL_NEWS" : "http://145.239.133.5/news.json"
+}

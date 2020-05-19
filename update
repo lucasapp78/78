@@ -1,0 +1,11 @@
+{
+    "files": [
+        "url-to-arhive",
+	"http://santrope-download.react.group/upd1.zip",
+	"http://santrope-download.react.group/upd2.zip",
+	"http://santrope-download.react.group/upd3.zip",
+	"http://santrope-download.react.group/upd4.zip",
+	"http://santrope-download.react.group/upd5.zip"
+    ],
+    "client": 17
+}

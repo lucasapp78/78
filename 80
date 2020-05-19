@@ -4,6 +4,6 @@
     	"URL_LITE_CACHE" : "https://www.dropbox.com/s/opznfx55nxyqr6c/samp_files.zip?dl=1 " ,
     	"URL_FULL_CACHE" : " https://www.dropbox.com/s/opznfx55nxyqr6c/samp_files.zip?dl=1  " ,    
 	"URL_GAME_SETTINGS" : "http://santrope-download.react.group/gta_sa.set" ,
-    	"URL_UPD" : "http://145.239.133.5/upd1.json",
+    	"URL_UPD" : "https://raw.githubusercontent.com/lucasapp78/78/master/update",
 	"URL_NEWS" : "http://145.239.133.5/news.json"
 }

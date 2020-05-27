@@ -5,5 +5,5 @@
     	"URL_FULL_CACHE" : "http://santrope-download.react.group/full_cache.zip" ,    
 	"URL_GAME_SETTINGS" : "http://santrope-download.react.group/gta_sa.set" ,
     	"URL_UPD" : "https://raw.githubusercontent.com/lucasapp78/78/master/update",
-	"URL_NEWS" : "http://145.239.133.5/news.json"
+	"URL_NEWS" : "https://raw.githubusercontent.com/lucasapp78/78/master/Noticias"
 }

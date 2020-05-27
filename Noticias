@@ -9,21 +9,21 @@
         },
         {
             "title": "News 3 здарова",
-            "content": "Content News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3",
+            "content": "Content News 3",
             "date": "27-05-2020",
             "image": "http://santrope-download.react.group/test/1.jpg",
             "image_id": "1"
         },
         {
             "title": "News 2",
-            "content": "Content News 5",
+            "content": "Content News 2",
             "date": "27-05-2020",
             "image": null,
             "image_id": null
         },
         {
             "title": "News 1",
-            "content": "Content News 6",
+            "content": "Content News 1",
             "date": "27-05-2020",
             "image": "http://santrope-download.react.group/test/1.jpg",
             "image_id": "1"

@@ -1,1 +1,24 @@
-Noticias
+{
+    "news": [
+        {
+            window.addEventListener("load", function(){
+		window.cookieconsent.initialise({
+		  "palette": {
+			"popup": {
+			  "background": "#252e39"
+			},
+			"button": {
+			  "background": "#14a7d0"
+			}
+		  },
+		  "theme": "edgeless",
+		  "position": "bottom-right",
+			"content": {
+				"message": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
+				"link": "See details",
+				"href": "https://www.game-state.com/cookie-policy.html"
+			}
+		}
+        }
+    ]
+}

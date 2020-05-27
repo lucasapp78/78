@@ -16,14 +16,14 @@
         },
         {
             "title": "News 2",
-            "content": "Content News 2",
+            "content": "Content News 5",
             "date": "27-05-2020",
             "image": null,
             "image_id": null
         },
         {
             "title": "News 1",
-            "content": "Content News 1",
+            "content": "Content News 6",
             "date": "27-05-2020",
             "image": "http://santrope-download.react.group/test/1.jpg",
             "image_id": "1"

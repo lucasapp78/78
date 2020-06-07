@@ -1,7 +1,7 @@
 {
-    "URL_CLIENT" : "http://santrope-download.react.group/st/cl/client20.zip",
+    "URL_CLIENT" : "https://www.dropbox.com/s/jhfjd8qucaf6a6d/client6.zip?dl=1",
     "URL_FILES" : "http://santrope-download.react.group/st/upd/upd-all-v3.zip",
-    "URL_LITE_CACHE" : "http://santrope-download.react.group/st/gm/lite-cache-2.zip",
+    "URL_LITE_CACHE" : "https://www.dropbox.com/s/yud6vza52yge40b/lite-cache.zip?dl=1",
     "URL_FULL_CACHE" : "http://loloka.arges.feralhosting.com/st/gm/full_cache.zip",
     "URL_VERSIONS" : "http://145.239.133.5/v1_versions.json",
     "URL_GAME_SETTINGS" : "http://santrope-download.react.group/st/gm/gta_sa.set",
@@ -15,7 +15,3 @@
     "URL_CONFIG": "http://145.239.133.5/v1_config.json",
     "URL_LAUNCHER": "http://santrope-download.react.group/st/ln/st-laucher-rel.apk"
 }
-
-
-Client https://www.dropbox.com/s/jhfjd8qucaf6a6d/client6.zip?dl=1
-Lite cache https://www.dropbox.com/s/yud6vza52yge40b/lite-cache.zip?dl=1

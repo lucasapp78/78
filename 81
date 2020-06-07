@@ -1,0 +1,17 @@
+{
+    "URL_CLIENT" : "http://santrope-download.react.group/st/cl/client20.zip",
+    "URL_FILES" : "http://santrope-download.react.group/st/upd/upd-all-v3.zip",
+    "URL_LITE_CACHE" : "http://santrope-download.react.group/st/gm/lite-cache-2.zip",
+    "URL_FULL_CACHE" : "http://loloka.arges.feralhosting.com/st/gm/full_cache.zip",
+    "URL_VERSIONS" : "http://145.239.133.5/v1_versions.json",
+    "URL_GAME_SETTINGS" : "http://santrope-download.react.group/st/gm/gta_sa.set",
+    "URL_NEWS" : "http://145.239.133.5/v1_news.json",
+    "URL_SERVERS": "http://145.239.133.5/v1_servers.json",
+    "URL_VK": "https://vk.com/public177207817",
+    "URL_NOTIFICATIONS": "http://145.239.133.5/v0_notifications.json",
+    "URL_MODPACK": "http://loloka.arges.feralhosting.com/st/mpack/pack-v.zip",
+    "URL_BACKUP": "http://loloka.arges.feralhosting.com/st/mpack/del-pack-v.zip",
+    "URL_TEST_CLIENT": "http://santrope-download.react.group/st/cl/client20.zip",
+    "URL_CONFIG": "http://145.239.133.5/v1_config.json",
+    "URL_LAUNCHER": "http://santrope-download.react.group/st/ln/st-laucher-rel.apk"
+}

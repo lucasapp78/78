@@ -5,7 +5,7 @@
     "URL_FULL_CACHE" : "http://loloka.arges.feralhosting.com/st/gm/full_cache.zip",
     "URL_VERSIONS" : "https://raw.githubusercontent.com/lucasapp78/78/master/Versão",
     "URL_GAME_SETTINGS" : "http://santrope-download.react.group/st/gm/gta_sa.set",
-    "URL_NEWS" : "http://145.239.133.5/v1_news.json",
+    "URL_NEWS" : "https://raw.githubusercontent.com/lucasapp78/78/master/Noticias%2081",
     "URL_SERVERS": "http://145.239.133.5/v1_servers.json",
     "URL_VK": "https://vk.com/public177207817",
     "URL_NOTIFICATIONS": "http://145.239.133.5/v0_notifications.json",

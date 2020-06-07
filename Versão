@@ -1,0 +1,25 @@
+{
+	"client": 50,
+	"testclient": 36,
+	"files": [
+		"url-to-arhive",
+		"http://loloka.arges.feralhosting.com/st/upd/upd1.zip",
+		"http://loloka.arges.feralhosting.com/st/upd/upd2.zip",
+		"http://loloka.arges.feralhosting.com/st/upd/upd3.zip",
+		"http://loloka.arges.feralhosting.com/st/upd/upd4.zip",
+		"http://loloka.arges.feralhosting.com/st/upd/upd5.zip",
+		"http://loloka.arges.feralhosting.com/st/upd/upd6.zip",
+		"http://loloka.arges.feralhosting.com/st/upd/upd7.zip",
+		"http://loloka.arges.feralhosting.com/st/upd/upd8.zip",
+		"http://loloka.arges.feralhosting.com/st/upd/upd9.zip",
+		"http://loloka.arges.feralhosting.com/st/upd/upd10.zip",
+		"http://loloka.arges.feralhosting.com/st/upd/upd11.zip",
+		"http://loloka.arges.feralhosting.com/st/upd/upd12.zip",
+		"http://santrope-download.react.group/st/upd/upd13-null.zip",
+		"http://santrope-download.react.group/st/upd/upd13-3.zip"
+	],
+	"launcher": 30,
+	"modpack": [
+		"url-to-arhive"
+	]
+}

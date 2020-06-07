@@ -3,7 +3,7 @@
     "URL_FILES" : "http://santrope-download.react.group/st/upd/upd-all-v3.zip",
     "URL_LITE_CACHE" : "https://www.dropbox.com/s/yud6vza52yge40b/lite-cache.zip?dl=1",
     "URL_FULL_CACHE" : "http://loloka.arges.feralhosting.com/st/gm/full_cache.zip",
-    "URL_VERSIONS" : "http://145.239.133.5/v1_versions.json",
+    "URL_VERSIONS" : "https://raw.githubusercontent.com/lucasapp78/78/master/Versão",
     "URL_GAME_SETTINGS" : "http://santrope-download.react.group/st/gm/gta_sa.set",
     "URL_NEWS" : "http://145.239.133.5/v1_news.json",
     "URL_SERVERS": "http://145.239.133.5/v1_servers.json",
